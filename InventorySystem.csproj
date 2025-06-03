@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AppDbContext.cs" />
+    <Compile Remove="Customer.cs" />
+    <Compile Remove="Item.cs" />
+    <Compile Remove="ItemForm.cs" />
+    <Compile Remove="ItemUnit.cs" />
+    <Compile Remove="ReleasePermission.cs" />
+    <Compile Remove="ReleasePermissionItem.cs" />
+    <Compile Remove="StockTransfer.cs" />
+    <Compile Remove="StockTransferItem.cs" />
+    <Compile Remove="Store.cs" />
+    <Compile Remove="Supplier.cs" />
+    <Compile Remove="SupplyPermission.cs" />
+    <Compile Remove="SupplyPermissionItem.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\supplypermissioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\supplypermissioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\suppliercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\suppliercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\storecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\storecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\stocktransfercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\stocktransfercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\releasepermissioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\releasepermissioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\menu tabs\\user control\\itemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:menu tabs\\user control\\itemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|c:\\users\\mm199\\onedrive\\desktop\\inventorysystem\\inventorysystem\\model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB8304D-72AB-4056-A452-E4D8BA18815F}|InventorySystem.csproj|solutionrelative:model\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplyPermissionControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\SupplyPermissionControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\SupplyPermissionControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\SupplyPermissionControl.cs [Design]*",
+              "RelativeToolTip": "Menu Tabs\\User Control\\SupplyPermissionControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:23:20.668Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\SupplierControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\SupplierControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\SupplierControl.cs [Design]",
+              "RelativeToolTip": "Menu Tabs\\User Control\\SupplierControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:23:18.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\StoreControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\StoreControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\StoreControl.cs [Design]",
+              "RelativeToolTip": "Menu Tabs\\User Control\\StoreControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:23:17.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockTransferControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\StockTransferControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\StockTransferControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\StockTransferControl.cs [Design]*",
+              "RelativeToolTip": "Menu Tabs\\User Control\\StockTransferControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:22:26.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\ReportsControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ReportsControl.cs [Design]",
+              "RelativeToolTip": "Menu Tabs\\User Control\\ReportsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:22:16.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReleasePermissionControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ReleasePermissionControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\ReleasePermissionControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ReleasePermissionControl.cs [Design]",
+              "RelativeToolTip": "Menu Tabs\\User Control\\ReleasePermissionControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:22:12.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ItemControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\ItemControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ItemControl.cs [Design]",
+              "RelativeToolTip": "Menu Tabs\\User Control\\ItemControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:21:41.221Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsControl.cs",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "Menu Tabs\\User Control\\ReportsControl.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Menu Tabs\\User Control\\ReportsControl.cs",
+              "RelativeToolTip": "Menu Tabs\\User Control\\ReportsControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:17:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Model\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Model\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Model\\CompanyContext.cs",
+              "RelativeToolTip": "Model\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:31:47.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mm199\\OneDrive\\Desktop\\InventorySystem\\InventorySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:30:40.194Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 589,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
